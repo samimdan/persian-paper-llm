@@ -1,10 +1,12 @@
-# README.md (English)
+<div align="center">
 
-<div align="right">
+🇮🇷 Persian Version|فارسی: [README_FA.md](README_FA.md) || English Version ||
 
-🇮🇷 Persian Version: [README_FA.md](README_FA.md)
 
 </div>
+# README.md (English)
+
+
 
 # Persian Paper LLM
 
