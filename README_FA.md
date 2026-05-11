@@ -1,10 +1,12 @@
-# README_FA.md
+<div align="center">
 
-<div align="left">
+ Persian Version (فارسی): [README_FA.md](README_FA.md) || English Version: [README.md](README.md)  ||
 
-🇬🇧 English Version: [README.md](README.md)
 
 </div>
+# README_FA.md
+
+
 
 # مدل زبانی فارسی برای تولید متن علمی
 
