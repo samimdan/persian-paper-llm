@@ -1,6 +1,6 @@
 <div align="center">
 
- Persian Version (فارسی): [README_FA.md](README_FA.md) || English Version: [README.md](README.md)  ||
+ Persian Version (فارسی): [README_FA.md](README_FA.md) || English Version: [README.md](README.md)  
 
 
 </div>
